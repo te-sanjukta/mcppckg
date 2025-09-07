@@ -1,6 +1,6 @@
-def main():
-    print("Hello from mcppckg!")
+# def main():
+#     print("Hello from mcppckg!")
 
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()
